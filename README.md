@@ -1,4 +1,3 @@
-Newsletter-Signup
 This is one of the projects for The Complete Web Development Bootcamp Course.
 
 The Web app focusses on implementing Full Stack Web Development Using NodeJS and ExpressJS as backend along with use of requests module for working with third party apis.
